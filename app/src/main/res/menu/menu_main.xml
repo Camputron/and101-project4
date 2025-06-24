@@ -4,6 +4,7 @@
     tools:context="com.and101_project4.MainActivity">
     <item
         android:id="@+id/action_settings"
+        android:enabled="false"
         android:orderInCategory="100"
         android:title="@string/action_settings"
         app:showAsAction="never" />

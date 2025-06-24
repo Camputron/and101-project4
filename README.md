@@ -4,7 +4,7 @@
 
 Submitted by: **Michael Campos**
 
-Time spent: **4** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Summary
 
@@ -18,13 +18,13 @@ If I had to describe this project in three (3) emojis, they would be: **🤓🧐
 
 The following REQUIRED features are completed:
 
-- [ ] At least one (1) user input
-- [ ] At least one (1) interactive View
-- [ ] At least one (1) output of a calculation based on the user input
+- [X] At least one (1) user input
+- [X] At least one (1) interactive View
+- [X] At least one (1) output of a calculation based on the user input
 
 The following STRETCH features are implemented:
 
-- [ ] Implement ViewBinding to reduce boilerplate code and increase efficiency
+- [X] Implement ViewBinding to reduce boilerplate code and increase efficiency
 - [ ] Add at least one (1) additional functionality
 
 The following EXTRA features are implemented:
@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src="./demo.gif" />
 
 GIF created with **Peeka**
 
